@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:47:52.165392
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:02
 #+TITLE: 法華經玄籤證釋
 #+PROPERTY: CBETA_ID X28n0592
 #+PROPERTY: ID KR6d0013
